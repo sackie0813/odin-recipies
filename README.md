@@ -1,2 +1,1 @@
-The Odin Project first project
-To Be Updated
+The Odin Project first project. This is a recipe book made using simple HTML
